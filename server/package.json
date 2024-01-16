@@ -4,8 +4,7 @@
   "description": "Server Proyecto Individual",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "npm run compile"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
